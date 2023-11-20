@@ -12,17 +12,28 @@ The dataset contains information gathered at the time of the loan application, e
 ### Column Descriptions:
 
 Income: Numeric data indicating the income of the applicant.
+
 Age: Numeric data denoting the age of the applicant.
+
 Experience: Numeric data representing the professional experience of the applicant in years.
+
 Profession: Categorical data describing the applicant's profession.
+
 Married: Categorical data indicating the marital status of the applicant (either married or single).
+
 House_ownership: Categorical data specifying whether the applicant owns, rents, or has neither a house.
+
 Car_ownership: Categorical data indicating whether the applicant owns a car.
+
 Risk_flag: Categorical data indicating whether the applicant has defaulted on a loan in the past.
+
 Current_job_years: Numeric data indicating the number of years of experience in the current job.
+
 Current_house_years: Numeric data indicating the number of years in the current residence.
+
 City: Categorical data denoting the city of residence for the applicant.
 State: Categorical data indicating the state of residence for the applicant.
+
 The risk_flag column serves as the target variable, indicating whether an applicant has previously defaulted on a loan or not.
 
 This dataset provides a rich array of attributes, enabling to explore and analyze various factors potentially influencing loan defaults, fostering predictive modeling and risk assessment strategies.
